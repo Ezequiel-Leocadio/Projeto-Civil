@@ -32,7 +32,7 @@ com isso irá criar as tabelas e um usuário admin com senha admin (login:admin,
 ``` 
 
 # Executar FRONT-END
-Front-End desenvolvido em JavaScript com ReactJs, a escolha do ReactJs foi devido o não conhecimento com a tecnologia pedida no edital.
+Front-End desenvolvido em JavaScript com ReactJs.
 
 Start Usando Node:
 
@@ -56,7 +56,7 @@ docker run -p 3000:3000 -d front_end
 Para fazer login use (login:admin, senha:admin)
 
 # Executar APP
-Aplicativo desenvolvido em JavaScript com React-Native, a escolha do React-Native foi devido o não conhecimento com a tecnologia pedida no edital.
+Aplicativo desenvolvido em JavaScript com React-Native.
 
 Start Usando Node:
 
