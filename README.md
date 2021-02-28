@@ -1,5 +1,5 @@
 # Projeto-Civil
-Projeto resultado do Concurso Edital nº 04/2021/PJC/MT.
+Projeto resultado de Concurso.
 
 
 # Executar BACK-END
