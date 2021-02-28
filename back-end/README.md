@@ -1,7 +1,5 @@
 # Projeto-Civil
-Projeto resultado do Concurso Edital nº 04/2021/PJC/MT.
-
-Ezequiel Leocadio, CPF: 02360248251, Tel.: 65 9 99405113, , E-mail: leocadioezequiel@gmail.com
+Projeto resultado de Concurso.
 
 # Executar BACK-END
 Back-End desenvolvido em JavaScript com NodeJs.
